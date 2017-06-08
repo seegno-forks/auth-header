@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["InvalidHeaderError","format","parse"],"mappings":";;;;;;;AAAA;;;;AACA;;;;AACA;;;;;;QAEQA,kB;QAAoBC,M;QAAQC,K","file":"index.js","sourcesContent":["import InvalidHeaderError from './invalid-header-error';\nimport format from './format';\nimport parse from './parse';\n\nexport {InvalidHeaderError, format, parse};\n"]}

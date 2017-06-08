@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/invalid-header-error.js"],"names":[],"mappings":";;;;;;AAAA","file":"invalid-header-error.js","sourcesContent":["import ExtendableError from 'es6-error';\n\nexport default class extends ExtendableError {}\n"]}
